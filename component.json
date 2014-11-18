@@ -1,0 +1,31 @@
+{
+  "name": "swipedemo",
+  "repo": "https://github.com/yapcheahshen/swipedemo.git",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ksanaforge/boot": "*",
+    "brighthas/bootstrap": "*",
+    "ksanaforge/swipe": "*",
+    "ksana/document": "*",
+    "swipedemo/main": "*",
+    "swipedemo/comp1": "*"
+  },
+  "development": {},
+  "paths": [
+    "components",
+    "../components",
+    "../../components",
+    "../node_modules/",
+    "../../node_modules/"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}
